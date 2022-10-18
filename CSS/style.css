@@ -1,0 +1,24 @@
+.container {
+	background-color: white;
+	padding: 0.2rem;
+	resize: both;
+	overflow: auto;
+	max-width: 100px;
+	max-height: 300px;
+}
+h1 {
+
+    color:red;
+    text-align: center;
+}
+
+div {
+
+background-color: gold;
+width: 120px;
+height: 100px;
+padding: 20px;
+margin:20px;
+border: 4;
+
+}
